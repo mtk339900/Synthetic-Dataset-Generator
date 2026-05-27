@@ -152,7 +152,7 @@ MIT — free for personal and commercial use.
 If you need a **custom dataset generator, data pipeline, or AI automation tool** built for your specific use case, feel free to reach out:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-mostafa-658013408)
-- 💼 [Upwork Profile](#) *(add your link)*
+- 💼 [Upwork Profile](https://www.upwork.com/freelancers/~01117f10fdcfeac100?mp_source=share)
 - 📧 Available for freelance projects
 
 ---
